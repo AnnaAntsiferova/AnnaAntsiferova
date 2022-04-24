@@ -1,16 +1,15 @@
-### Hi there 👋
+![header](https://user-images.githubusercontent.com/98107725/150832459-48409f75-8f22-4e87-a959-1c451fd5ec7c.jpg)
 
-<!--
-**AnnaAntsiferova/AnnaAntsiferova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi 👋
 
-Here are some ideas to get you started:
+My name is Anna. I am Art Director. I and our team design and execute innovative identities and websites to deliver outstanding results for our clients. I help brands launch products and design new customer experiences in digital and beyond.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+  
+![art direction](https://user-images.githubusercontent.com/98107725/150828882-7f889401-6254-4c3a-846e-e5f0bced21c0.svg)
+![ux design](https://user-images.githubusercontent.com/98107725/150828977-a08f2313-bf88-4b29-8a24-26259f06529a.svg) 
+![ui design](https://user-images.githubusercontent.com/98107725/150829091-510ae688-5fae-4116-8f2c-eb5f9ff1dc33.svg)
+![application](https://user-images.githubusercontent.com/98107725/150829179-dc995672-a0c8-4d6c-b07f-0ea9b1658e73.svg)
+![product design](https://user-images.githubusercontent.com/98107725/150829227-8d4c35a8-5a00-4dfa-9de8-c91f80a288c9.svg)
+![web design](https://user-images.githubusercontent.com/98107725/150829279-b0f4a86d-d4f5-4f88-ab41-917af13afd17.svg)
+![branding](https://user-images.githubusercontent.com/98107725/150829295-a17dd265-020e-406f-b3b6-04bb32302f7a.svg)
